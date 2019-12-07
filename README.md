@@ -1,5 +1,7 @@
 # Package Development, Testing, and Model Testing
 
+[![Build Status](https://travis-ci.com/nicolajthor/modularizationandtesting.svg?branch=bestgroup2)](https://travis-ci.com/nicolajthor/modularizationandtesting)
+
 This repository contains materials for the NYU predoctoral economics training program. This
 material covers the topics of code modularization, Python package development, unit and
 integration testing, and model testing. It was prepared and presented by Chase Coleman
